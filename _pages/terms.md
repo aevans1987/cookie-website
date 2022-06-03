@@ -9,35 +9,35 @@ By accessing this Website, accessible from http://website-url.com, you are agree
 
 ## 2\. Use License
 
-Permission is granted to temporarily download one copy of the materials on Company-XXX's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+Permission is granted to temporarily download one copy of the materials on {{site.company}}'s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 *   modify or copy the materials;
 *   use the materials for any commercial purpose or for any public display;
-*   attempt to reverse engineer any software contained on Company-XXX's Website;
+*   attempt to reverse engineer any software contained on {{site.company}}'s Website;
 *   remove any copyright or other proprietary notations from the materials; or
 *   transferring the materials to another person or "mirror" the materials on any other server.
 
-This will let Company-XXX to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the [Terms Of Service Generator](https://www.termsofservicegenerator.net) and the [Privacy Policy Generator](https://www.generateprivacypolicy.com).
+This will let {{site.company}} to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the [Terms Of Service Generator](https://www.termsofservicegenerator.net) and the [Privacy Policy Generator](https://www.generateprivacypolicy.com).
 
 ## 3\. Disclaimer
 
-All the materials on Company-XXX’s Website are provided "as is". Company-XXX makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Company-XXX does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+All the materials on {{site.company}}’s Website are provided "as is". {{site.company}} makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, {{site.company}} does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
 
 ## 4\. Limitations
 
-Company-XXX or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Company-XXX’s Website, even if Company-XXX or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+{{site.company}} or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on {{site.company}}’s Website, even if {{site.company}} or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
 
 ## 5\. Revisions and Errata
 
-The materials appearing on Company-XXX’s Website may include technical, typographical, or photographic errors. Company-XXX will not promise that any of the materials in this Website are accurate, complete, or current. Company-XXX may change the materials contained on its Website at any time without notice. Company-XXX does not make any commitment to update the materials.
+The materials appearing on {{site.company}}’s Website may include technical, typographical, or photographic errors. {{site.company}} will not promise that any of the materials in this Website are accurate, complete, or current. {{site.company}} may change the materials contained on its Website at any time without notice. {{site.company}} does not make any commitment to update the materials.
 
 ## 6\. Links
 
-Company-XXX has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Company-XXX of the site. The use of any linked website is at the user’s own risk.
+{{site.company}} has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by {{site.company}} of the site. The use of any linked website is at the user’s own risk.
 
 ## 7\. Site Terms of Use Modifications
 
-Company-XXX may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+{{site.company}} may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
 
 ## 8\. Your Privacy
 
@@ -45,4 +45,4 @@ Please read our Privacy Policy.
 
 ## 9\. Governing Law
 
-Any claim related to Company-XXX's Website shall be governed by the laws of us without regards to its conflict of law provisions.
+Any claim related to {{site.company}}'s Website shall be governed by the laws of us without regards to its conflict of law provisions.

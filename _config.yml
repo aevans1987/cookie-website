@@ -37,6 +37,8 @@ soopr:
 twitter:
   card: summary_large_image
 
+company: "Teegeek"
+
 exclude:
   - Gemfile
   - Gemfile.lock
