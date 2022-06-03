@@ -2,7 +2,7 @@
 layout: home
 nav: true
 icon: fa-file-alt
-permalink: /blog/
+permalink: /testing/
 ---
 
 <div class="container max-w-screen-md py-24 md:py-28 mx-auto px-4 sm:px-6 lg:px-8">
