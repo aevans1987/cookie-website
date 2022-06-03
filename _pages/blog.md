@@ -1,7 +1,7 @@
 ---
 layout: home
 nav: true
-icon: fa-file-alt
+icon: far fa-file-alt
 permalink: /blog/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: home
 nav: true
-icon: fa-file-alt
+icon: fas fa-glass-whiskey
 permalink: /testing/
 ---
 
