@@ -25,8 +25,7 @@ layout: home
                   I'm Geeky and I know it.
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
-                  This is a simple example of a Landing Page you can build using
-                  Cookie. You can see README file for installation and customization.
+                  Let's take YOUR geekiness to the next level!
                 </p>
               </div>
             </div>
@@ -64,12 +63,12 @@ layout: home
                   <div
                     class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400"
                   >
-                    <i class="fas fa-award"></i>
+                    <i class="fas fa-tshirt"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Awarded Agency</h6>
+                  <h6 class="text-xl font-semibold">SHOP</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                    From shirts and totes to glasses and decals, 
+                    we've got you covered (Pun intended).
                   </p>
                 </div></a>
               </div>
@@ -78,36 +77,41 @@ layout: home
               <div
                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg"
               >
-                <div class="px-4 py-5 flex-auto">
-                  <div
-                    class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-blue-400"
-                  >
-                    <i class="fas fa-retweet"></i>
+                <a href="#">
+                  <div class="px-4 py-5 flex-auto">
+                    <div
+                      class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-blue-400"
+                    >
+                      <i class="fas fas fa-calendar-day"></i>
+                    </div>
+                    <h6 class="text-xl font-semibold">EVENTS</h6>
+                    <p class="mt-2 mb-4 text-gray-600">
+                      Virtual and In-Person, our events are sure to be a geeky good time.
+                    </p>
                   </div>
-                  <h6 class="text-xl font-semibold">Free Revisions</h6>
-                  <p class="mt-2 mb-4 text-gray-600">
-                    Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious.
-                  </p>
-                </div>
+                </a>
               </div>
             </div>
             <div class="pt-6 w-full md:w-4/12 px-2 text-center">
               <div
                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg"
               >
-                <div class="px-4 py-5 flex-auto">
-                  <div
-                    class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-green-400"
-                  >
-                    <i class="fas fa-fingerprint"></i>
+                <a href="/{{site.sotm.url}}">
+                  <div class="px-4 py-5 flex-auto">
+                    <div
+                      class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-green-400"
+                    >
+                      <i class="fas fa-glass-whiskey"></i>
+                    </div>
+                    <h6 class="text-xl font-semibold">SHOP OF THE MONTH</h6>
+                    <p class="mt-2 mb-4 text-gray-600">
+                      Check out {{site.sotm.name}} <br />
+                      {% if site.sotm.age %}
+                      (By clicking this box you confirm that you are 18+)
+                      {% endif %}
+                    </p>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
-                  <p class="mt-2 mb-4 text-gray-600">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
-                  </p>
-                </div>
+                </a>
               </div>
             </div>
           </div>
@@ -116,29 +120,23 @@ layout: home
               <div
                 class="text-gray-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-gray-100"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-user-tie text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+                Bulk Orders? Logo Shirts? No problem!
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
-              </p>
-              <p
-                class="text-lg font-light leading-relaxed mt-0 mb-8 text-gray-700"
-              >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
+                We believe that no custom order is too large, OR too small. 
+                Click below to contact us for business, bulk, or custom orders (think family reunion!).
+                Need a logo designed? We've got you covered for that too!
+                
               </p>
               <a
-                href="https://github.com/abhinavs/cookie"
+                href="#"
                 class="font-bold text-gray-500 px-8 py-4 rounded-md bg-gray-50 hover:bg-gray-400 hover:text-gray-50"
-                >Check Cookie!</a>
+                >Push my Button!</a>
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
               <div
@@ -210,57 +208,16 @@ layout: home
                 <div
                   class="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300"
                 >
-                  <i class="fas fa-rocket text-xl"></i>
+                  <i class="fas fas fa-birthday-cake text-xl"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">A growing company</h3>
+                <h3 class="text-3xl font-semibold">Creative Birthday Party? Yes Please!</h3>
                 <p class="mt-4 text-lg leading-relaxed text-gray-600">
-                  The extension comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go.
-                </p>
-                <ul class="list-none mt-6">
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fas fa-fingerprint"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">
-                          Carefully crafted components
-                        </h4>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="fab fa-html5"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">Amazing page examples</h4>
-                      </div>
-                    </div>
-                  </li>
-                  <li class="py-2">
-                    <div class="flex items-center">
-                      <div>
-                        <span
-                          class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-pink-600 bg-pink-200 mr-3"
-                          ><i class="far fa-paper-plane"></i
-                        ></span>
-                      </div>
-                      <div>
-                        <h4 class="text-gray-600">Dynamic components</h4>
-                      </div>
-                    </div>
-                  </li>
-                </ul>
+                  Pick one of our designs, create your own, or mix it up! Coloring book shirts are a great party activity, and they double as the party favor!
+                </p><br /><br />
+                <a
+                href="#"
+                class="font-bold text-gray-500 px-8 py-4 rounded-md bg-gray-50 hover:bg-gray-400 hover:text-gray-50"
+                >Time to par-Tee!</a>
               </div>
             </div>
           </div>

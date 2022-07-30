@@ -39,6 +39,11 @@ twitter:
 
 company: "Teegeek"
 
+sotm:
+  name: "The Weekly Thread"
+  url: "the-weekly-thread"
+  age: true
+
 exclude:
   - Gemfile
   - Gemfile.lock
